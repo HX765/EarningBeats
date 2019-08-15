@@ -1,0 +1,14 @@
+Program name: EarningBeats
+
+Project description:
+
+EarningBeats is a smart and powerful financial platform designed for investors with all levels of investment experience. Whether you are a beginner or an advantaged investor, all you need to do is inputting a stock ticker or the name of the public company you desire to dive into, a direct earning data visualization will then show up with a comparison between the company's actual EPS(earning per share) and expected EPS/consensus estimate for the latest four quarters. 
+
+Since strong earning is pivotal for stock selection, our EarningBeats platform extracts quality earning data from IEX Cloud and provides investors with valuable visualized fundamental analysis for their further investment decision and portfolio management. Furthermore, this platform can also be used by financial statement preparer to verify the alignment of quarterly earnings.
+
+Workstream breakdown:
+- Chao (Winnie) Qiu: GUI, integration with all other classes, front-end testing.
+- Han Xiao: Data parsing from API and data analysis, JUnit tests, project management.
+- Mengqing Shi: Data analysis and visualization.
+
+Link to our EarningBears github repository: https://github.com/cit-591/final-project-summer-2019-earning-beats.git
